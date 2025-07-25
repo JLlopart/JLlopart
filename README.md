@@ -36,6 +36,9 @@ An **Product Engineer** specializing in IoT, Embedded Systems, and Industrial Au
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   </a>
+  <a href="https://k3s.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/K3s-FFC61E?style=for-the-badge&logo=k3s&logoColor=black" alt="K3s"/>
+  </a>
   <br/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -81,7 +84,10 @@ An **Product Engineer** specializing in IoT, Embedded Systems, and Industrial Au
     <img src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens"/>
   </a>
   <a href="https://www.copadata.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Zenon-FF8200?style=for-the-badge&logo=copa-data&logoColor=white" alt="Zenon"/>
+    <img src="https://img.shields.io/badge/Zenon-FF8200?style=for-the-badge&logoColor=white" alt="Zenon"/>
+  </a>
+  <a href="https://www.omron.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Omron-003DA5?style=for-the-badge&logoColor=white" alt="Omron"/>
   </a>
 </p>
 
