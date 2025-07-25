@@ -18,9 +18,6 @@ An **Product Engineer** specializing in IoT, Embedded Systems, and Industrial Au
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   </a>
@@ -71,4 +68,4 @@ An **Product Engineer** specializing in IoT, Embedded Systems, and Industrial Au
 - 🌱 **I’m currently learning:** Deepening my expertise in cloud-native technologies, specifically `AWS` and `Kubernetes`.
 - 🤝 **I’m looking to collaborate on:** Open-source projects related to industrial automation, IoT, and edge computing. If you're passionate about building the future of Industry 4.0, let's connect!
 - 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/josepllopart/) or reach out via email at `jllopart@amida4.com`.
-- ⚡ **Fun fact:** In a high school entrepreneurship class, I designed an anti-theft device for mobile phones. Years later, I saw a polished version of the same core idea being sold everywhere!
+- ⚡ **Fun fact:** In a high school entrepreneurship class, I designed an anti-theft device for mobile phones. Years later, I saw a polished version of the same core idea being sold everywhere 🧐
